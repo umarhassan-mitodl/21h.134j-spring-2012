@@ -1,0 +1,65 @@
+leftnav:
+- identifier: f425ce87-4276-a5a3-84b5-fc55463c13e6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 645990c6-8fa1-387d-b63f-3f1360ea243b
+  name: Starting the Course with a Survey
+  pageRef: /pages/instructor-insights/starting-the-course-with-a-survey
+  parent: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  weight: 30
+- identifier: 285c8dc7-bae3-a453-4b28-2a1b9de4c8e8
+  name: Teaching Students to Think, Problem Solve, and Make Connections
+  pageRef: /pages/instructor-insights/teaching-students-to-think-problem-solve-and-make-connections
+  parent: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  weight: 40
+- identifier: 4c8326ba-39b9-d57c-0bd8-b8bb54ac5281
+  name: Infusing the Course with Current Events and Articles
+  pageRef: /pages/instructor-insights/infusing-the-course-with-current-events-and-articles
+  parent: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  weight: 50
+- identifier: a96c0290-47b6-4ef1-8e12-1ced86adb8a3
+  name: Teaching Communication
+  pageRef: /pages/instructor-insights/teaching-communication
+  parent: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  weight: 60
+- identifier: 7c6b4cc6-65f0-e1dd-462f-9b3f9208cd66
+  name: The Intersection of Research and Teaching
+  pageRef: /pages/instructor-insights/the-intersection-of-research-and-teaching
+  parent: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  weight: 70
+- identifier: 9d3e1c6a-4a7c-7bbe-f5ee-6fbaba9700fd
+  name: Adapting the Course from Year to Year
+  pageRef: /pages/instructor-insights/adapting-the-course-from-year-to-year
+  parent: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  weight: 80
+- identifier: 7ea49c4a-202c-d098-36bc-ccca22ebdae5
+  name: 'Beyond the Course: Related Workshops'
+  pageRef: /pages/instructor-insights/beyond-the-course-related-workshops
+  parent: 4b2067a2-adc0-18d4-89d6-f65c79e59e97
+  weight: 90
+- identifier: cdb02463-2b27-7fa7-36e4-d9eb259bf9c5
+  name: Readings
+  pageRef: /pages/readings
+  weight: 100
+- identifier: d9c117d4-dce6-b272-8e3b-4d65e031886c
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 110
+- identifier: a39008b2-5d87-fff4-98b7-e8df8f1ba54e
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 120
+- identifier: a1f4d977-aeb4-e411-3598-1fb8c11af68f
+  name: Additional Materials
+  pageRef: /pages/additional-materials/
+  weight: 130
+- identifier: 1cb06f1f-a943-d2e9-4902-f96d91d85ff4
+  name: Exploring the Roots of Development
+  pageRef: /pages/additional-materials/exploring-the-roots-of-development
+  parent: a1f4d977-aeb4-e411-3598-1fb8c11af68f
+  weight: 140
