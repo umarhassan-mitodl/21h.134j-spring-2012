@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Comparative History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Medieval History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "legacy_uid": "6a1f3b1e-ee64-93bf-86f3-fe1bbdc77dcd",
+  "instructors": {
+    "content": [
+      "4b59017c-92e6-cb8b-595e-843febee23b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c36416ee-43b2-7332-c315-e89f052c93ed",
+    "website": "21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012"
+  },
+  "course_title": "Medieval Economic History in Comparative Perspective",
+  "course_description": "This course will survey the conditions of material life and changing social and economic conditions in medieval Europe with reference to the comparative context of contemporary Islamic, Chinese, and central Asian experiences. Subject covers the emergence and decline of feudal institutions, the transformation of peasant agriculture, living standards and the course of epidemic disease, and the ebb and flow of long-distance trade across the Eurasian system. Particular emphasis will be placed on the study of those factors, both institutional and technological, which have contributed to the emergence of capitalist organization and economic growth in Western Europe in contrast to the trajectories followed by the other major medieval economies.\n",
+  "department_numbers": [
+    "21H",
+    "14"
+  ],
+  "extra_course_numbers": "14.70J",
+  "primary_course_number": "21H.134J",
+  "course_image_thumbnail": {
+    "content": "76cb5125-61b9-4fb0-3ad4-803c69836acf",
+    "website": "21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "b7b21b85-a56a-42fd-9c07-c0b5177bce19",
+  "site_short_id": "21h.134j-spring-2012",
+  "site_url_path": "courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012",
+  "title": "Course Metadata"
+}
